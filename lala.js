@@ -2,4 +2,4 @@
 
 var greeting = "Hello World"
 
-console.log("${greeting}")
+console.log("say: ${greeting}")
